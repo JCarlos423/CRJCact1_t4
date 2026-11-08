@@ -35,7 +35,7 @@ Este proyecto consiste en el desarrollo de una API REST básica construida con *
 }
 ```
 
-### 1. GET `/general/status`
+### 2. GET `/general/status`
 ```json
 {
   "estado": "Servicio activo",
@@ -45,7 +45,7 @@ Este proyecto consiste en el desarrollo de una API REST básica construida con *
 }
 ```
 
-### 2. GET `/estudiante/materias`
+### 3. GET `/estudiante/materias`
 ```json
 {
   "nombre": "Canseco Reyes Juan Carlos",
